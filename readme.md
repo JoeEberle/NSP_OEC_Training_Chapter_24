@@ -726,11 +726,8 @@ To get started with the **Nsp Oec Training Chapter 24** solution repository, fol
  ![additional_image](abdominal and pelvic anatomy.png)  <br>![additional_image](eviacerATION.png)  <br>![additional_image](Impaled Objects.png)  <br>![additional_image](NSP_OEC_Training_Chapter_24.png)  <br>![additional_image](PELVIC FRACTURES.png)  <br>![additional_image](tear and rupture injuries.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
