@@ -116,7 +116,7 @@ Here are six common abdominal and pelvic injuries, including their descriptions,
 ### 2. **Spleen Rupture**
    - **Description**: A rupture of the spleen caused by trauma, leading to internal bleeding. The spleen is a highly vascular organ, so damage can cause significant hemorrhage.
    - **Causes**: Blunt trauma to the left upper abdomen (e.g., car accidents, sports injuries) or underlying conditions that weaken the spleen (e.g., mononucleosis).
-   - **Symptoms**: Left upper abdominal pain, referred pain to the left shoulder (Kehr’s sign), tenderness, signs of shock, dizziness, and lightheadedness.
+   - **Symptoms**: Left upper abdominal pain, referred pain to the left shoulder (Kehrâ€™s sign), tenderness, signs of shock, dizziness, and lightheadedness.
    - **Complications**: Life-threatening internal bleeding and the need for a splenectomy (removal of the spleen).
 
 ### 3. **Kidney Contusion or Laceration**
@@ -139,7 +139,7 @@ Here are six common abdominal and pelvic injuries, including their descriptions,
 
 ### 6. **Bowel Perforation**
    - **Description**: A hole or tear in the wall of the small or large intestine, allowing contents to spill into the abdominal cavity, leading to infection (peritonitis).
-   - **Causes**: Blunt or penetrating trauma, severe infections (e.g., appendicitis), or inflammatory conditions (e.g., Crohn’s disease).
+   - **Causes**: Blunt or penetrating trauma, severe infections (e.g., appendicitis), or inflammatory conditions (e.g., Crohnâ€™s disease).
    - **Symptoms**: Severe abdominal pain, tenderness, guarding, nausea, vomiting, fever, and signs of peritonitis (rigid abdomen).
    - **Complications**: Peritonitis (inflammation of the abdominal lining), sepsis, and potential life-threatening infection if not treated promptly. Emergency surgery is typically required to repair the bowel.
 
@@ -170,7 +170,7 @@ Assessing a patient with **abdominal or pelvic trauma** is crucial for identifyi
 The primary survey is a quick assessment to identify life-threatening conditions.
 
 #### **A: Airway**
-- **Assess airway patency**: Ensure the patient’s airway is clear and unobstructed.
+- **Assess airway patency**: Ensure the patientâ€™s airway is clear and unobstructed.
 - **Cervical spine precautions**: If there is suspicion of a spinal injury (e.g., from a car accident or fall), immobilize the cervical spine.
 
 #### **B: Breathing**
@@ -183,7 +183,7 @@ The primary survey is a quick assessment to identify life-threatening conditions
 - **Control external bleeding**: Apply pressure to any visible wounds or bleeding sites.
 
 #### **D: Disability**
-- **Neurological assessment**: Check the patient’s level of consciousness (use the AVPU scale: Alert, Verbal, Pain, Unresponsive), and assess pupil response.
+- **Neurological assessment**: Check the patientâ€™s level of consciousness (use the AVPU scale: Alert, Verbal, Pain, Unresponsive), and assess pupil response.
 
 #### **E: Exposure and Environment**
 - **Expose the abdomen and pelvis** to inspect for obvious signs of trauma (e.g., bruising, distension, lacerations).
@@ -204,7 +204,7 @@ Gather a quick patient history using the **AMPLE** acronym:
 
 #### **2. Inspection**
 - **Look for external signs of trauma**:
-  - Bruising (e.g., **Cullen’s sign** around the umbilicus or **Grey-Turner’s sign** on the flanks, indicating internal bleeding).
+  - Bruising (e.g., **Cullenâ€™s sign** around the umbilicus or **Grey-Turnerâ€™s sign** on the flanks, indicating internal bleeding).
   - **Distension**: Abdominal swelling or distension, which could suggest internal bleeding or bowel injury.
   - Penetrating injuries, lacerations, or open wounds.
 
@@ -239,7 +239,7 @@ Gather a quick patient history using the **AMPLE** acronym:
 ### **3. Focused Assessment with Sonography for Trauma (FAST) Exam**
 A **FAST exam** is a bedside ultrasound that can quickly assess for internal bleeding or fluid in the following areas:
 - **Pericardial area**: To check for blood around the heart (pericardial tamponade).
-- **Right upper quadrant**: To check for blood near the liver and kidney (Morrison’s pouch).
+- **Right upper quadrant**: To check for blood near the liver and kidney (Morrisonâ€™s pouch).
 - **Left upper quadrant**: To check for blood near the spleen.
 - **Pelvic area**: To check for blood around the bladder or in the pelvic cavity.
 
@@ -285,8 +285,8 @@ Begin with a **primary survey** to identify and address any life-threatening con
 #### **C: Circulation**
 - **Control any external bleeding**: Apply direct pressure to control bleeding from wounds.
 - **Monitor signs of shock**: Rapid heart rate, pale skin, weak pulse, and low blood pressure are indicators of shock. If shock is present:
-  - Lay the patient flat, elevate their legs, and administer **IV fluids** (typically 1-2 liters of crystalloid fluids like normal saline or lactated Ringer’s) to maintain blood pressure.
-  - Continuously monitor the patient’s vital signs, including heart rate, blood pressure, and oxygen saturation.
+  - Lay the patient flat, elevate their legs, and administer **IV fluids** (typically 1-2 liters of crystalloid fluids like normal saline or lactated Ringerâ€™s) to maintain blood pressure.
+  - Continuously monitor the patientâ€™s vital signs, including heart rate, blood pressure, and oxygen saturation.
 
 #### **D: Disability**
 - **Assess neurological status**: Check the patient's level of consciousness using the **AVPU scale** (Alert, responds to Verbal stimuli, responds to Pain, Unresponsive) or **Glasgow Coma Scale (GCS)**.
@@ -303,7 +303,7 @@ After the primary survey, perform a more thorough **secondary survey** and focus
 
 #### **1. Inspection**
 - **Look for external signs of trauma**:
-  - **Bruising and discoloration** (e.g., Cullen's sign around the umbilicus or Grey-Turner’s sign on the flanks, which may indicate internal bleeding).
+  - **Bruising and discoloration** (e.g., Cullen's sign around the umbilicus or Grey-Turnerâ€™s sign on the flanks, which may indicate internal bleeding).
   - **Open wounds**: Penetrating injuries (e.g., gunshot wounds, stab wounds).
 
 #### **2. Palpation**
@@ -382,7 +382,7 @@ By following this approach, you can effectively manage and stabilize a patient w
 
 An **abdominal evisceration** occurs when internal organs, typically intestines, protrude through a wound in the abdominal wall. This injury is usually the result of significant trauma, such as a stabbing, gunshot wound, or severe blunt force trauma. Managing an abdominal evisceration requires prompt and careful care to prevent further injury, infection, and shock.
 
-Here’s how to properly manage an abdominal evisceration:
+Hereâ€™s how to properly manage an abdominal evisceration:
 
 ---
 
@@ -452,7 +452,7 @@ Here’s how to properly manage an abdominal evisceration:
 #### **9. Ongoing Monitoring**
    - Continue to **monitor vital signs** (heart rate, blood pressure, respiratory rate, and oxygen saturation).
    - **Reassess the wound** periodically to ensure the dressing remains moist and intact.
-   - Monitor the patient’s **level of consciousness** and signs of deterioration, such as increasing pain, worsening shock, or changes in breathing patterns.
+   - Monitor the patientâ€™s **level of consciousness** and signs of deterioration, such as increasing pain, worsening shock, or changes in breathing patterns.
 
 ---
 
@@ -483,7 +483,7 @@ By following these steps, you can effectively manage an abdominal evisceration i
 ## 24.6  Describe and demonstrate how to manage an impaled object in the abdomen or pelvis.
 
 
-Managing an **impaled object in the abdomen or pelvis** is a delicate and critical task, as improper handling can cause further internal damage or significant bleeding. The goal is to stabilize the object, prevent further injury, control bleeding, and transport the patient to a trauma center for surgical intervention. Here’s a step-by-step guide on how to manage such an injury:
+Managing an **impaled object in the abdomen or pelvis** is a delicate and critical task, as improper handling can cause further internal damage or significant bleeding. The goal is to stabilize the object, prevent further injury, control bleeding, and transport the patient to a trauma center for surgical intervention. Hereâ€™s a step-by-step guide on how to manage such an injury:
 
 ---
 
@@ -498,10 +498,10 @@ Managing an **impaled object in the abdomen or pelvis** is a delicate and critic
 #### **2. Primary Survey (ABCDE Approach)**
    **Prioritize life-threatening conditions** before managing the impaled object.
 
-   - **A: Airway**: Ensure the patient’s airway is clear and maintain it if needed.
+   - **A: Airway**: Ensure the patientâ€™s airway is clear and maintain it if needed.
    - **B: Breathing**: Assess breathing and provide high-flow oxygen if the patient is in respiratory distress.
    - **C: Circulation**: Assess for signs of shock, such as rapid pulse, low blood pressure, and pale or cool skin. Control any external bleeding.
-   - **D: Disability (Neurological status)**: Assess the patient’s level of consciousness using the AVPU scale (Alert, Verbal, Pain, Unresponsive).
+   - **D: Disability (Neurological status)**: Assess the patientâ€™s level of consciousness using the AVPU scale (Alert, Verbal, Pain, Unresponsive).
    - **E: Exposure and Environment**: Expose the injury site carefully while keeping the patient warm to prevent hypothermia.
 
 ---
@@ -549,9 +549,9 @@ Managing an **impaled object in the abdomen or pelvis** is a delicate and critic
 ---
 
 #### **9. Ongoing Monitoring**
-   - **Continuously monitor the patient’s vital signs** (heart rate, blood pressure, respiratory rate, oxygen saturation).
+   - **Continuously monitor the patientâ€™s vital signs** (heart rate, blood pressure, respiratory rate, oxygen saturation).
    - Reassess the wound frequently to ensure the impaled object remains stable and there is no increase in bleeding.
-   - Monitor the patient’s **level of consciousness** and any signs of deterioration, such as worsening pain or increased difficulty breathing.
+   - Monitor the patientâ€™s **level of consciousness** and any signs of deterioration, such as worsening pain or increased difficulty breathing.
 
 ---
 
@@ -610,12 +610,12 @@ Begin with a **primary survey** to assess and stabilize life-threatening conditi
    - Look for other signs of injury to the thorax or abdomen that might compromise breathing.
 
 #### **C: Circulation**
-   - **Check circulation** by assessing the patient’s pulse, skin color, temperature, and capillary refill.
+   - **Check circulation** by assessing the patientâ€™s pulse, skin color, temperature, and capillary refill.
    - **Control external bleeding**: If there are any visible wounds or external bleeding, apply direct pressure to the site.
    - **Monitor for shock**: Pelvic fractures can cause significant internal bleeding, leading to signs of shock such as pale or cool skin, rapid heart rate, low blood pressure, and confusion.
 
 #### **D: Disability**
-   - Assess neurological status using the **AVPU scale** (Alert, Verbal, Pain, Unresponsive) or **Glasgow Coma Scale (GCS)** to check the patient’s level of consciousness.
+   - Assess neurological status using the **AVPU scale** (Alert, Verbal, Pain, Unresponsive) or **Glasgow Coma Scale (GCS)** to check the patientâ€™s level of consciousness.
 
 #### **E: Exposure and Environment**
    - **Expose the pelvis** to assess for signs of injury (e.g., bruising, swelling, deformity). However, avoid excessive movement or manipulation of the pelvis to prevent further injury.
@@ -647,7 +647,7 @@ Begin with a **primary survey** to assess and stabilize life-threatening conditi
 ### **5. Treat for Shock**
    Pelvic fractures often cause severe internal bleeding, leading to shock. **Early recognition and treatment of shock** are critical.
 
-- **Administer IV fluids**: If available, start IV fluids (e.g., normal saline or lactated Ringer’s) to support circulation and prevent hypovolemic shock.
+- **Administer IV fluids**: If available, start IV fluids (e.g., normal saline or lactated Ringerâ€™s) to support circulation and prevent hypovolemic shock.
 - **Lay the patient flat (supine)** with their legs slightly elevated if there is no suspected spinal injury. This improves blood flow to vital organs.
 - **Keep the patient warm**: Use blankets or other coverings to maintain body temperature and prevent hypothermia, which can worsen shock.
 - **Monitor vital signs** continuously, including heart rate, blood pressure, respiratory rate, and oxygen saturation.
@@ -655,8 +655,8 @@ Begin with a **primary survey** to assess and stabilize life-threatening conditi
 ---
 
 ### **6. Pain Management**
-   - **Administer analgesics**, if available and within your scope of practice, to help manage the patient’s pain. Pain can exacerbate shock, so controlling discomfort is an important part of treatment.
-   - Be cautious with administering pain medication, especially if the patient’s condition is unstable, as it may mask the signs of deterioration.
+   - **Administer analgesics**, if available and within your scope of practice, to help manage the patientâ€™s pain. Pain can exacerbate shock, so controlling discomfort is an important part of treatment.
+   - Be cautious with administering pain medication, especially if the patientâ€™s condition is unstable, as it may mask the signs of deterioration.
 
 ---
 
@@ -671,7 +671,7 @@ Begin with a **primary survey** to assess and stabilize life-threatening conditi
 ### **8. Ongoing Monitoring**
    - **Reassess the patient frequently**: Continue to monitor for signs of shock, such as worsening hypotension (low blood pressure), tachycardia (fast heart rate), or a decrease in oxygen saturation.
    - **Check the stability of the pelvic binder**: Ensure the pelvic binder or improvised sheet remains secure throughout transport.
-   - **Monitor for changes in consciousness**: Watch for any changes in the patient’s level of consciousness, as this can indicate deterioration or increased internal bleeding.
+   - **Monitor for changes in consciousness**: Watch for any changes in the patientâ€™s level of consciousness, as this can indicate deterioration or increased internal bleeding.
 
 ---
 
